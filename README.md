@@ -1,9 +1,3 @@
-# Disable-Hands-Up-when-downed
-This is only a read me for copying the code of line and then put it into the handsup lua 
-Disable Hands Up when downed
-Put this line of code into qb-smallresources/client/handsup.lua 
-
-
 local QBCore = exports['qb-core']:GetCoreObject()
 local animDict = "missminuteman_1ig_2"
 local anim = "handsup_base"
